@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/09/21 17:32:51.000.077,=C:\Users\Nicolas\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2017/11/07 18:07:18.000.789,C:\Users\Nicolas\Documents\Embarcadero\Studio\Projets\Project1.dproj=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Civilization.dproj</Transaction>
+    <Transaction>2017/11/09 15:14:21.000.908,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\GestionEcran.pas</Transaction>
+    <Transaction>2017/11/09 15:26:15.000.905,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 15:26:38.000.035,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitAffichage.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 15:28:36.000.086,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 15:28:41.000.694,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitUpdate.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 15:54:07.000.808,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 15:54:28.000.172,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitRecord.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 16:44:43.000.952,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 16:44:49.000.124,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitInit.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 17:27:27.000.489,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 17:27:31.000.860,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Math.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/09 17:33:40.000.734,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitMath.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Math.pas</Transaction>
+    <Transaction>2017/11/10 00:14:01.000.531,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/10 00:14:08.000.761,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitGestion.pas</Transaction>
+    <Transaction>2017/11/11 01:28:21.000.162,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/11 01:29:07.000.505,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\TheUnit.pas</Transaction>
+    <Transaction>2017/11/11 01:31:11.000.117,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\TheUnit.pas=</Transaction>
+    <Transaction>2017/11/11 01:33:08.000.941,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/11 01:33:13.000.148,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitVille.pas</Transaction>
+    <Transaction>2017/11/13 23:12:44.000.350,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas</Transaction>
+    <Transaction>2017/11/13 23:13:32.000.439,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\Unit1.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\UnitMilitaire.pas</Transaction>
+    <Transaction>2017/11/14 17:58:02.000.245,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\VersionMinimal\CivilizationMinimal.dproj=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\VersionMinimal\Civilization.dproj</Transaction>
+    <Transaction>2017/11/22 20:40:14.000.684,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\CivilizationMinimal.dproj=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\CivilizationUpgrade.dproj</Transaction>
+    <Transaction>2017/12/02 22:58:39.000.937,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\Unit1.pas</Transaction>
+    <Transaction>2017/12/02 22:58:46.000.569,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\UnitConst.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 23:47:36.000.201,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\Unit1.pas</Transaction>
+    <Transaction>2017/12/05 23:47:46.000.100,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\Unit1.pas=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\UnitRecherche.pas</Transaction>
+    <Transaction>2017/12/06 02:32:56.000.793,D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\UnitRecherche.pas=</Transaction>
+    <Transaction>2017/12/06 10:59:48.000.069,=\\iut21\Ressources\Users\Etudiants\IQ\IQ-1\nf807942\S1\M1102-Algorithmique\Projet\CivilizationUpgradeRecherche\CivilizationUpgrade\UnitSave.pas</Transaction>
+    <Transaction>2017/12/13 18:38:41.000.882,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\Unit1.pas</Transaction>
+    <Transaction>2017/12/13 18:39:02.000.094,=D:\Etude\DUT\S1\M1102-Algorithmique\Projet\CivilizationUpgrade\UnitRecherche.pas</Transaction>
+    <Transaction>2017/12/16 09:57:18.000.622,=C:\Users\Jean-Claude\Desktop\UnitSprite.pas</Transaction>
+    <Transaction>2017/12/16 09:57:29.000.366,C:\Users\Jean-Claude\Desktop\UnitSprite.pas=</Transaction>
+    <Transaction>2017/12/16 09:58:06.000.040,=C:\Users\Jean-Claude\Downloads\CivilizationUpgradePropreVraimentCetteFois\CivilizationUpgrade\UnitSprite.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="GestionEcran.pas"/>
+    <File Path="UnitAffichage.pas"/>
+    <File Path="UnitUpdate.pas"/>
+    <File Path="UnitRecord.pas"/>
+    <File Path="UnitInit.pas"/>
+    <File Path="UnitGestion.pas"/>
+    <File Path="UnitVille.pas"/>
+    <File Path="UnitMilitaire.pas"/>
+    <File Path="UnitConst.pas"/>
+    <File Path="UnitSave.pas"/>
+    <File Path="UnitRecherche.pas"/>
+    <File Path="UnitSprite.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
